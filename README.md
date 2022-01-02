@@ -16,8 +16,8 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
 ## Preliminary Resources
 
 * [Basic Data Manipulation](resource/basic_data_prep.md)
-* [Primer on Technical Malpractice](https://github.com/jphall663/GWU_ML/raw/main/resource/primer_on_technical_malpractice.pdf)
-* [Syllabus](https://raw.githubusercontent.com/jphall663/GWU_ML/master/resource/syllabus.pdf)
+* [Primer on Technical Malpractice](resource/primer_on_technical_malpractice.pdf)
+* [Syllabus](resource/syllabus.pdf)
 
 ## Lecture 1: Preliminaries, Feature Engineering and Feature Selection
 
