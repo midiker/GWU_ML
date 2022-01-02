@@ -2,7 +2,7 @@
 
 A great deal of work in data mining projects is spent on data munging. Below some of the basic operations are illustrated and defined. Code examples are provided in common languages.
 
-![Basic data preparation tasks.](img/basic_data_operations.png)
+![Basic data preparation tasks.](https://github.com/jphall663/GWU_ML/blob/main/img/basic_data_operations.png)
 
 **Subset/Select/Filter/Slice Rows** - Selecting rows or reducing the number of rows in a data set by some criterion.
 
