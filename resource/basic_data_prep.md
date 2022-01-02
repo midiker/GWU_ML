@@ -848,7 +848,7 @@ scratch_dt <- fread('scratch_dt.csv')
 head(scratch_dt)
 ```
 
-#### Base SAS and PROC SGPLOT - [clone/download notebook](https://github.com/jphall663/GWU_data_mining/tree/master/01_basic_data_prep/src/notebooks/sas)
+#### Base SAS and PROC SGPLOT - [view notebook](https://github.com/jphall663/GWU_data_mining/blob/master/01_basic_data_prep/src/notebooks/sas/SAS_Part_0_Base_SAS_PROC_SGPLOT.ipynb)
 ```sas
 
 ******************************************************************************;
@@ -1300,7 +1300,7 @@ proc sgplot
 run;
 ```
 
-#### SAS PROC SQL - [clone/download notebook](https://github.com/jphall663/GWU_data_mining/tree/master/01_basic_data_prep/src/notebooks/sas)
+#### SAS PROC SQL - [view notebook](https://github.com/jphall663/GWU_data_mining/blob/master/01_basic_data_prep/src/notebooks/sas/SAS_Part_1_PROC_SQL.ipynb)
 ```sas
 
 ******************************************************************************;
