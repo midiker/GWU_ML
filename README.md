@@ -7,7 +7,7 @@ Materials for an introduction to machine learning.
 * Lecture 3: Model Assessment and Selection
 * Lecture 4: Decision Trees
 * Lecture 5: Artificial Neural Networks
-* Lecture 6: Other Estimators: Support Vector Machines (SVM) k-Nearest-Neighbors, etc.
+* Lecture 6: Other Estimators: Support Vector Machines (SVM) k-Nearest-Neighbors (_k_NN), etc.
 
 Corrections or suggestions? Please file a [GitHub issue](https://github.com/jphall663/GWU_ML/issues/new).
 
