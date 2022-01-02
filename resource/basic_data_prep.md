@@ -26,8 +26,8 @@ A great deal of work in data mining projects is spent on data munging. Below som
   * [Basics, dplyr, and ggplot](basic_data_prep.md#r-basics-dplyr-and-ggplot---view-notebook) - [view notebook](https://github.com/jphall663/GWU_data_mining/tree/master/01_basic_data_prep/src/notebooks/r/R_Part_0_Basics_dplyr_and_ggplot2.ipynb)
   * [data.table](basic_data_prep.md#r-datatable---view-notebook) - [view notebook](https://github.com/jphall663/GWU_data_mining/tree/master/01_basic_data_prep/src/notebooks/r/R_Part_1_data.table.ipynb)
 * SAS
-  * [Base SAS and PROC SGPLOT](basic_data_prep.md#base-sas-and-proc-sgplot---clonedownload-notebook) - [view notebook](https://github.com/jphall663/GWU_data_mining/blob/master/01_basic_data_prep/src/notebooks/sas/SAS_Part_0_Base_SAS_PROC_SGPLOT.ipynb)
-  * [PROC SQL](basic_data_prep.md#sas-proc-sql---clonedownload-notebook) - [view notebook](https://github.com/jphall663/GWU_data_mining/blob/master/01_basic_data_prep/src/notebooks/sas/SAS_Part_1_PROC_SQL.ipynb)
+  * [Base SAS and PROC SGPLOT](basic_data_prep.md#base-sas-and-proc-sgplot---view-notebook) - [view notebook](https://github.com/jphall663/GWU_data_mining/blob/master/01_basic_data_prep/src/notebooks/sas/SAS_Part_0_Base_SAS_PROC_SGPLOT.ipynb)
+  * [PROC SQL](basic_data_prep.md#sas-proc-sql---view-notebook) - [view notebook](https://github.com/jphall663/GWU_data_mining/blob/master/01_basic_data_prep/src/notebooks/sas/SAS_Part_1_PROC_SQL.ipynb)
 
 #### Supplementary References
 * Simple [benchmark](https://github.com/szilard/benchm-databases) of data processing tools by [@szilard](https://github.com/szilard)
