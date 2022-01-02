@@ -13,46 +13,43 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
 
 ***
 
+## Preliminary Resources
+
+* [Basic Data Manipulation](resource/basic_data_prep.md)
+* [Primer on Technical Malpractice](https://raw.githubusercontent.com/jphall663/GWU_ML/master/resource/primer_on_technical_malpractice.pdf)
+* [Syllabus](https://raw.githubusercontent.com/jphall663/GWU_ML/master/resource/syllabus.pdf)
+
 ## Lecture 1:
 
-![Extraction of a single principal component from two correlated model inputs.](/img/pca.png)
-<sub><sup>**Source:** [Lecture 1 feature extraction example.](?flush_cache=true)</sup></sub>
+![Extraction of a single principal component from two correlated model inputs.](img/pca.png)
+<sub><sup>**Source:** [Lecture 1 feature extraction example.](https://drive.google.com/file/d/1e_-015Zfx5sRdWXPR_6qFAC70rJuxFup/view?usp=sharing)</sup></sub>
 
 ### Lecture 1 Class Materials
 
-* [Syllabus](https://raw.githubusercontent.com/jphall663/GWU_rml/master/Syllabus_PH_Responsible_Machine_Learning_MSBA%20_v4.pdf)
-* [Lecture Notes](tex/lecture_1.pdf)
-* [Assignment 1](https://raw.githubusercontent.com/jphall663/GWU_rml/master/assignments/tex/assignment_1.pdf)
-  * [Model evaluation notebook](https://nbviewer.jupyter.org/github/jphall663/GWU_rml/blob/master/assignments/eval.ipynb)
-  * [Full evaluations results](https://github.com/jphall663/GWU_rml/blob/master/assignments/model_eval_2021_06_25_13_04_19.csv)
-* Software Examples:
-  * [Building from Penalized GLM to Monotonic GBM](https://nbviewer.jupyter.org/github/jphall663/GWU_rml/blob/master/lecture_1.ipynb?flush_cache=true)
-  * [Simple Explainable Boosting Machine Example](https://nbviewer.jupyter.org/github/jphall663/GWU_rml/blob/master/lecture_1_ebm_example.ipynb?flush_cache=true)
+* [Lecture Notes]()
+* [Lecture 1 Feature Engineering Table](resource/feature_engineering.md)
+* [Assignment 1]()
+* **Software Examples**:
+  * [Feature selection](https://drive.google.com/file/d/1goBhzXLqjagd8EDyvQwgAtOYBIykIIr_/view?usp=sharing)
+  * [Feature extraction](https://drive.google.com/file/d/1e_-015Zfx5sRdWXPR_6qFAC70rJuxFup/view?usp=sharing)
+  * [Over- and under-sampling](https://drive.google.com/file/d/1fhat_dZhhqjAtPs2IJ5USA9wTVP5dJ2e/view?usp=sharing)
+  * [Simple Encoding](https://drive.google.com/file/d/16anwAZt38Sr8j7Tl1gSSjBgV_e5bs8HA/view?usp=sharing)
+  * [Target Encoding (Categorical](https://drive.google.com/file/d/1HgBWhmryQwHtReaweoZdlJGMwtdqtu_M/view?usp=sharing)
+  * [Target Encoding (Numeric)](https://drive.google.com/file/d/1Dg0YP1tgFs_ILMTLN6NywX-MP7vEOYPF/view?usp=sharing)
+  * [Discretization](https://drive.google.com/file/d/1jSq65mivctrmu91rps3GoggLwoHoUM5P/view?usp=sharing)
+  * [Winsorizing](https://drive.google.com/file/d/1SmGe_k1s0aRrzvP6mb4a7k8lbXoWEJg2/view?usp=sharing)
+  * [Imputation](https://drive.google.com/file/d/1F57RnBa7x9fm_K9eEOaYEJqmyjrwA_Jq/view?usp=sharing)
+  * [Standardization](https://drive.google.com/file/d/16uBhnFgU3NLO_hcAAGhF1e9TcsFq1lIe/view?usp=sharing)
+<sub><sup>All notebooks also available in the `notebook` folder.</sup></sub>
 
+### Lecture 1 Reading
 
-### Lecture 1 Suggested Software
+* [*Label, Segment, Featurize: a cross domain framework for prediction engineering*](https://dai.lids.mit.edu/wp-content/uploads/2016/08/07796929.pdf)
+* *Introduction to Data Mining* - Chapter 2 ([Chapter 2 notes](https://www-users.cs.umn.edu/~kumar/dmbook/dmslides/chap2_data.pdf))
+* [*Introduction to the Foundations of Causal Discovery*](https://www.its.caltech.edu/~fehardt/papers/Eberhardt_IJDSA2017.pdf)
 
-* Python [explainable boosting machine (EBM)/GA2M](https://github.com/interpretml/interpret)
-* R [`gam`](https://cran.r-project.org/web/packages/gam/index.html)
-* `h2o` [penalized GLM](https://docs.h2o.ai/h2o/latest-stable/h2o-docs/data-science/glm.html) (R and Python)
-* Monotonic gradient boosting machine (GBM): [`h2o`](https://docs.h2o.ai/h2o/latest-stable/h2o-docs/data-science/algo-params/monotone_constraints.html) and [`xgboost`](https://xgboost.readthedocs.io/en/latest/tutorials/monotonic.html) (R and Python)
-* R [`rpart`](https://cran.r-project.org/web/packages/rpart/index.html)
-* Python [`skope-rules`](https://github.com/scikit-learn-contrib/skope-rules)
+### Lecture 1 Links
 
-### Lecture 1 Suggested Reading
-
-* **Introduction and Background**:
-  * [*Stop Explaining Black Box Machine Learning Models for High Stakes Decisions and Use Interpretable Models Instead*](https://www.nature.com/articles/s42256-019-0048-x)
-  * **[Responsible Artificial Intelligence](https://www.springer.com/gp/book/9783030303709)** - Sections 2.1-2.5, Chapter 7
-
-* **Interpretable Machine Learning Techniques**:
-  * **Interpretable Machine Learning** - [Chapter 4](https://christophm.github.io/interpretable-ml-book/simple.html)
-  * [*Accurate Intelligible Models with Pairwise Interactions*](http://www.cs.cornell.edu/~yinlou/papers/lou-kdd13.pdf)
-  * [*This Looks Like That: Deep Learning for Interpretable Image Recognition*](https://arxiv.org/pdf/1806.10574.pdf)
-
-* **Links from Lecture 1**:
-  * [EU AI Regulation Proposal](https://digital-strategy.ec.europa.eu/en/library/proposal-regulation-laying-down-harmonised-rules-artificial-intelligence)
-  * [FTC Guidance (2021)](https://www.ftc.gov/news-events/blogs/business-blog/2021/04/aiming-truth-fairness-equity-your-companys-use-ai)
 
 ***
 
