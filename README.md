@@ -23,6 +23,7 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
 ## Lecture 1: Preliminaries, Feature Engineering and Feature Selection
 
 ![Extraction of a single principal component from two correlated model inputs.](img/pca.png)
+
 <sub><sup>**Source:** [Lecture 1 feature extraction example.](https://drive.google.com/file/d/1e_-015Zfx5sRdWXPR_6qFAC70rJuxFup/view?usp=sharing)</sup></sub>
 
 ### Lecture 1 Class Materials
