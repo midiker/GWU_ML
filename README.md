@@ -19,7 +19,7 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
 * [Primer on Technical Malpractice](https://raw.githubusercontent.com/jphall663/GWU_ML/master/resource/primer_on_technical_malpractice.pdf)
 * [Syllabus](https://raw.githubusercontent.com/jphall663/GWU_ML/master/resource/syllabus.pdf)
 
-## Lecture 1:
+## Lecture 1: Preliminaries, Feature Engineering and Feature Selection
 
 ![Extraction of a single principal component from two correlated model inputs.](img/pca.png)
 <sub><sup>**Source:** [Lecture 1 feature extraction example.](https://drive.google.com/file/d/1e_-015Zfx5sRdWXPR_6qFAC70rJuxFup/view?usp=sharing)</sup></sub>
@@ -40,6 +40,7 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
   * [Winsorizing](https://drive.google.com/file/d/1SmGe_k1s0aRrzvP6mb4a7k8lbXoWEJg2/view?usp=sharing)
   * [Imputation](https://drive.google.com/file/d/1F57RnBa7x9fm_K9eEOaYEJqmyjrwA_Jq/view?usp=sharing)
   * [Standardization](https://drive.google.com/file/d/16uBhnFgU3NLO_hcAAGhF1e9TcsFq1lIe/view?usp=sharing)
+
 <sub><sup>All notebooks also available in the `notebook` folder.</sup></sub>
 
 ### Lecture 1 Reading
