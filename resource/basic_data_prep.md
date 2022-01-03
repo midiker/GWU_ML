@@ -6,7 +6,7 @@ A great deal of work in data mining projects is spent on data munging. Below som
 
 **Subset/Select/Filter/Slice Rows** - Selecting rows or reducing the number of rows in a data set by some criterion.
 
-**Subset/Select/Slice Columns** - Selecting(/variables) or reducing the number of columns(/variables) in a data set by some criterion.
+**Subset/Select/Slice Columns** - Selecting columns(/variables) or reducing the number of columns(/variables) in a data set by some criterion.
 
 **Sort/Arrange/Order By** - Arranging the rows of a data set in sequential order based on the values of one or more variables.
 
