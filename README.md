@@ -16,8 +16,8 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
 ## Preliminary Resources
 
 * [Basic Data Manipulation](resource/basic_data_prep.md)
-* [Primer on Technical Malpractice](resource/primer_on_technical_malpractice.pdf)
-* [Syllabus](resource/syllabus.pdf)
+* [Primer on Technical Malpractice](https://docs.google.com/presentation/d/1cZeaoIp4cQsVY_gj2a5Pg7ygexepQZRS-ZEn6n2QqEU/edit?usp=sharing)
+* [Syllabus](https://docs.google.com/document/d/1YORCBhsOqNT5pY7ltzigtaf4EuawgKyu0_Be0QiiVbg/edit?usp=sharing)
 * [Whiteboard Notation](https://docs.google.com/presentation/d/1Axf9dizaE3XvGRelBHfsnAlMUPFuMExQ2WNVwQBKMrw/edit?usp=sharing)
 
 ## Lecture 1: Preliminaries, Feature Engineering and Feature Selection
@@ -28,7 +28,7 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
 
 ### Lecture 1 Class Materials
 
-* [Lecture Notes]()
+* [Lecture Notes](https://docs.google.com/presentation/d/1NkTZyspUaQ2CwDv_5yGE_7fwdrUsmUAy93rj_eFppK4/edit?usp=sharing) (DRAFT)
 * [Lecture 1 Feature Engineering Table](resource/feature_engeering.md)
 * [Assignment 1]()
 * **Software Examples**:
