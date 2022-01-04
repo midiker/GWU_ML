@@ -28,7 +28,7 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
 
 ### Lecture 1 Class Materials
 
-* [Lecture Notes](https://docs.google.com/presentation/d/1NkTZyspUaQ2CwDv_5yGE_7fwdrUsmUAy93rj_eFppK4/edit?usp=sharing) (DRAFT)
+* [Lecture Notes]()
 * [Lecture 1 Feature Engineering Table](resource/feature_engeering.md)
 * [Assignment 1]()
 * **Software Examples**:
