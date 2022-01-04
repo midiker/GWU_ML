@@ -43,12 +43,12 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
   * [Imputation](https://drive.google.com/file/d/1F57RnBa7x9fm_K9eEOaYEJqmyjrwA_Jq/view?usp=sharing)
   * [Standardization](https://drive.google.com/file/d/16uBhnFgU3NLO_hcAAGhF1e9TcsFq1lIe/view?usp=sharing)
 
-<sub><sup>All notebooks also available in the `notebook` folder.</sup></sub>
+<sub><sup>All notebooks also available in the [`notebook`]() folder.</sup></sub>
 
 ### Lecture 1 Reading
 
 * [*Label, Segment, Featurize: a cross domain framework for prediction engineering*](https://dai.lids.mit.edu/wp-content/uploads/2016/08/07796929.pdf)
-* *Introduction to Data Mining* - Chapter 2 ([Chapter 2 notes](https://www-users.cs.umn.edu/~kumar/dmbook/dmslides/chap2_data.pdf))
+* *Introduction to Data Mining* - Sections 2.2-2.3 ([Chapter 2 notes](https://www-users.cs.umn.edu/~kumar/dmbook/dmslides/chap2_data.pdf))
 * [*Introduction to the Foundations of Causal Discovery*](https://www.its.caltech.edu/~fehardt/papers/Eberhardt_IJDSA2017.pdf)
 
 ### Lecture 1 Links
