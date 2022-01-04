@@ -43,7 +43,7 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
   * [Imputation](https://drive.google.com/file/d/1F57RnBa7x9fm_K9eEOaYEJqmyjrwA_Jq/view?usp=sharing)
   * [Standardization](https://drive.google.com/file/d/16uBhnFgU3NLO_hcAAGhF1e9TcsFq1lIe/view?usp=sharing)
 
-<sub><sup>All notebooks also available in the [`notebook`]() folder.</sup></sub>
+<sub><sup>All notebooks also available in the [`notebook`](notebook/lecture_1) folder.</sup></sub>
 
 ### Lecture 1 Reading
 
