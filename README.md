@@ -52,6 +52,8 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
 * [*Introduction to the Foundations of Causal Discovery*](https://www.its.caltech.edu/~fehardt/papers/Eberhardt_IJDSA2017.pdf) - Sections 1-3
 
 ### Lecture 1 Links
+* [LiNGAM for causal discovery](https://sites.google.com/view/sshimizu06/lingam)
+  * [lingam](https://github.com/cdt15/lingam)
 
 
 ***
