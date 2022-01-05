@@ -53,8 +53,7 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
 
 ### Lecture 1 Links
 * [LiNGAM for causal discovery](https://sites.google.com/view/sshimizu06/lingam)
-  * [lingam](https://github.com/cdt15/lingam)
-
+* [Causal Discovery Toolbox](https://github.com/FenTechSolutions/CausalDiscoveryToolbox)
 
 ***
 
