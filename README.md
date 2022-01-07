@@ -54,6 +54,7 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
 ### Lecture 1 Links
 * [LiNGAM for causal discovery](https://sites.google.com/view/sshimizu06/lingam)
 * [Causal Discovery Toolbox](https://github.com/FenTechSolutions/CausalDiscoveryToolbox)
+* [pandas-profiling](https://github.com/pandas-profiling/pandas-profiling)
 
 ***
 
