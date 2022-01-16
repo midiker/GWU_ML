@@ -60,11 +60,11 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
 
 ![Trace plot for a simple elastic net model.](img/trace.png)
 
-<sub><sup>**Source:** [Lecture 1 feature extraction example.](https://nbviewer.org/github/jphall663/interpretable_machine_learning_with_python/blob/master/glm_mgbm_gbm.ipynb)</sup></sub>
+<sub><sup>**Source:** [From GLM to GBM: Building the Case For Complexity.](https://nbviewer.org/github/jphall663/interpretable_machine_learning_with_python/blob/master/glm_mgbm_gbm.ipynb)</sup></sub>
 
 ### Lecture 2 Class Materials
 
-* [Lecture Notes]()
+* [Lecture Notes](https://docs.google.com/presentation/d/1a24nLOHOxEwS7GdNfvJAptb9ZD0Rmq_8lyXHJLb4deQ/edit?usp=sharing)
 * [Lecture 2 Software Example]()
 * [Assignment 2]()
 
@@ -75,7 +75,6 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
   * Sections 3.1 - 3.4
   * Section 4.4
 * [_Regularization and variable selection via the elastic net_](https://hastie.su.domains/Papers/B67.2%20(2005)%20301-320%20Zou%20&%20Hastie.pdf)
-
 
 ### Lecture 2 Links
 
