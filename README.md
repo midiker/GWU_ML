@@ -3,7 +3,7 @@
 Materials for an introduction to machine learning.
 
 * Lecture 1: Preliminaries, Feature Engineering and Feature Selection
-* Lecture 2: Penalized Regression
+* Lecture 2: Contemporary Linear Model Approaches
 * Lecture 3: Model Assessment and Selection
 * Lecture 4: Decision Trees
 * Lecture 5: Artificial Neural Networks
@@ -55,6 +55,29 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
 * [LiNGAM for causal discovery](https://sites.google.com/view/sshimizu06/lingam)
 * [Causal Discovery Toolbox](https://github.com/FenTechSolutions/CausalDiscoveryToolbox)
 * [pandas-profiling](https://github.com/pandas-profiling/pandas-profiling)
+
+## Lecture 2: Contemporary Linear Model Approaches
+
+![Trace plot for a simple elastic net model.](img/trace.png)
+
+<sub><sup>**Source:** [Lecture 1 feature extraction example.](https://nbviewer.org/github/jphall663/interpretable_machine_learning_with_python/blob/master/glm_mgbm_gbm.ipynb)</sup></sub>
+
+### Lecture 2 Class Materials
+
+* [Lecture Notes]()
+* [Lecture 2 Software Example]()
+* [Assignment 2]()
+
+<sub><sup>All notebooks also available in the [`notebook`](notebook/lecture_2) folder.</sup></sub>
+
+### Lecture 2 Reading
+* [_Elements of Statistical Learning_](https://hastie.su.domains/Papers/ESLII.pdf):
+  * Sections 3.1 - 3.4
+  * Section 4.4
+* [_Regularization and variable selection via the elastic net_](https://hastie.su.domains/Papers/B67.2%20(2005)%20301-320%20Zou%20&%20Hastie.pdf)
+
+
+### Lecture 2 Links
 
 ***
 
