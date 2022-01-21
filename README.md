@@ -78,7 +78,7 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
 
 ### Lecture 2 Links
 
-* [h2o](https://h2o-release.s3.amazonaws.com/h2o/rel-zorn/1/index.html) (Python or R Download, requires Java) 
+* [h2o](https://h2o-release.s3.amazonaws.com/h2o/rel-zorn/1/index.html) (Python or R download, requires Java) 
 * [Generalized Linear Model (GLM) documentation](https://docs.h2o.ai/h2o/latest-stable/h2o-docs/data-science/glm.html)
 * [Generalized Linear Modeling with H2O](https://www.h2o.ai/wp-content/uploads/2018/01/GLM-BOOKLET.pdf)
 * [elasticnet](https://cran.r-project.org/web/packages/elasticnet/index.html) (R)
