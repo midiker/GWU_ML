@@ -68,7 +68,7 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
 * [Lecture 2 Software Example](https://drive.google.com/file/d/1eNJzS2J_LPhGxgg3JbxbvlD4DEDByFSO/view?usp=sharing)
 * [Assignment 2]()
 
-<sub><sup>All notebooks also available in the [`notebook`](notebook/lecture_2) folder.</sup></sub>
+<sub><sup>[`Notebooks`](notebook/lecture_2) and [`data`](data/lecture_2) also available via GitHub.</sup></sub>
 
 ### Lecture 2 Reading
 * [_Elements of Statistical Learning_](https://hastie.su.domains/Papers/ESLII.pdf):
