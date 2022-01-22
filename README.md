@@ -66,7 +66,8 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
 
 * [Lecture Notes](https://docs.google.com/presentation/d/1a24nLOHOxEwS7GdNfvJAptb9ZD0Rmq_8lyXHJLb4deQ/edit?usp=sharing)
 * [Lecture 2 Software Example](https://drive.google.com/file/d/1eNJzS2J_LPhGxgg3JbxbvlD4DEDByFSO/view?usp=sharing)
-* [Assignment 2]()
+* [Assignment 2](https://docs.google.com/document/d/1lbWXiAMdtCCeb-AQ9Xa3JD2xmcqZ-C2lXWiP1RexDfo/edit?usp=sharing)
+  * [Assignment 2 Notebook](https://colab.research.google.com/drive/1MKGYhPuLaAN_4RriqOAmacsm7qpaQF1N?usp=sharing)
 
 <sub><sup>[`Notebooks`](notebook/lecture_2) and [`data`](data/lecture_2) also available via GitHub.</sup></sub>
 
