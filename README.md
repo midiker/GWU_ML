@@ -92,7 +92,7 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
 
 <sub><sup>**Source:** [From Lecture 3]().</sup></sub>
 
-### Lecture 2 Class Materials
+### Lecture 3 Class Materials
 
 * [Lecture Notes]()
 * [Lecture 3 Software Example](https://drive.google.com/file/d/1t_5IBiyGIC6XG1H0-qtja1fBvmY4Y7R8/view?usp=sharing)
