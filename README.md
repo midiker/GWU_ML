@@ -107,7 +107,7 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
   * Sections 7.1 - 7.5
   * Section 7.10
 
-* [_Introduction to Data Mining_](https://www-users.cse.umn.edu/~kumar001/dmbook/ch3_classification.pdf)
+* [_Introduction to Data Mining_](https://www-users.cse.umn.edu/~kumar001/dmbook/ch3_classification.pdf):
   * Sections 3.4 - 3.6
   
 * [_KDD-Cup 2004: Results and Analysis_](https://www.cs.cornell.edu/people/tj/publications/caruana_etal_04a.pdf)
