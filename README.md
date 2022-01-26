@@ -68,6 +68,7 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
 * [Lecture 2 Software Example](https://drive.google.com/file/d/1eNJzS2J_LPhGxgg3JbxbvlD4DEDByFSO/view?usp=sharing)
 * [Assignment 2](https://docs.google.com/document/d/1lbWXiAMdtCCeb-AQ9Xa3JD2xmcqZ-C2lXWiP1RexDfo/edit?usp=sharing)
   * [Assignment 2 Notebook](https://colab.research.google.com/drive/1MKGYhPuLaAN_4RriqOAmacsm7qpaQF1N?usp=sharing)
+  * [Assignment 2 Data](notebook/lecture_2)
 
 <sub><sup>[`Notebooks`](notebook/lecture_2) and [`data`](data/lecture_2) also available via GitHub.</sup></sub>
 
@@ -84,6 +85,32 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
 * [Generalized Linear Modeling with H2O](https://www.h2o.ai/wp-content/uploads/2018/01/GLM-BOOKLET.pdf)
 * [elasticnet](https://cran.r-project.org/web/packages/elasticnet/index.html) (R)
 * [glmnet](https://cran.r-project.org/web/packages/glmnet/index.html) (R)
+
+## Lecture 3: Model Assessment and Selection
+
+![Illustration of the bias-variance trade-off.](img/bias_variance.png)
+
+<sub><sup>**Source:** [From Lecture 3.]()</sup></sub>
+
+### Lecture 2 Class Materials
+
+* [Lecture Notes]()
+* [Lecture 3 Software Example](https://drive.google.com/file/d/1t_5IBiyGIC6XG1H0-qtja1fBvmY4Y7R8/view?usp=sharing)
+* [Assignment 3]()
+  * [Assignment 3 Notebook]()
+  * [Assignment 3 Data](data/lecture_3)
+
+<sub><sup>[`Notebooks`](notebook/lecture_3) and [`data`](data/lecture_3) also available via GitHub.</sup></sub>
+
+### Lecture 3 Reading
+* [_Elements of Statistical Learning_](https://hastie.su.domains/Papers/ESLII.pdf):
+  * Sections 7.1 - 7.5
+  * Section 7.10
+
+* [_Introduction to Data Mining_](https://www-users.cse.umn.edu/~kumar001/dmbook/ch3_classification.pdf)
+  * Sections 3.4 - 3.6
+  
+* [_KDD-Cup 2004: Results and Analysis_](https://www.cs.cornell.edu/people/tj/publications/caruana_etal_04a.pdf)
 
 ***
 
