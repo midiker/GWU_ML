@@ -24,7 +24,7 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
 
 ![Extraction of a single principal component from two correlated model inputs.](img/pca.png)
 
-<sub><sup>**Source:** [Lecture 1 feature extraction example.](https://drive.google.com/file/d/1e_-015Zfx5sRdWXPR_6qFAC70rJuxFup/view?usp=sharing)</sup></sub>
+<sub><sup>**Source:** [Lecture 1 feature extraction example](https://drive.google.com/file/d/1e_-015Zfx5sRdWXPR_6qFAC70rJuxFup/view?usp=sharing).</sup></sub>
 
 ### Lecture 1 Class Materials
 
@@ -60,7 +60,7 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
 
 ![Trace plot for a simple elastic net model.](img/trace.png)
 
-<sub><sup>**Source:** [From GLM to GBM: Building the Case For Complexity.](https://nbviewer.org/github/jphall663/interpretable_machine_learning_with_python/blob/master/glm_mgbm_gbm.ipynb)</sup></sub>
+<sub><sup>**Source:** [From GLM to GBM: Building the Case For Complexity](https://nbviewer.org/github/jphall663/interpretable_machine_learning_with_python/blob/master/glm_mgbm_gbm.ipynb).</sup></sub>
 
 ### Lecture 2 Class Materials
 
@@ -90,7 +90,7 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
 
 ![Illustration of the bias-variance trade-off.](img/bias_variance.png)
 
-<sub><sup>**Source:** [From Lecture 3.]()</sup></sub>
+<sub><sup>**Source:** [From Lecture 3]().</sup></sub>
 
 ### Lecture 2 Class Materials
 
