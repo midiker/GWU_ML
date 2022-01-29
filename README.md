@@ -90,14 +90,14 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
 
 ![Illustration of the bias-variance trade-off.](img/bias_variance.png)
 
-<sub><sup>**Source:** [From Lecture 3]().</sup></sub>
+<sub><sup>**Source:** [From Lecture 3](https://docs.google.com/presentation/d/1ueIPK1mb0etN_gUNffwjBszrPlOhfUbVItzn8Fil4LI/edit?usp=sharing).</sup></sub>
 
 ### Lecture 3 Class Materials
 
 * [Lecture Notes](https://docs.google.com/presentation/d/1ueIPK1mb0etN_gUNffwjBszrPlOhfUbVItzn8Fil4LI/edit?usp=sharing)
 * [Lecture 3 Software Example](https://drive.google.com/file/d/1t_5IBiyGIC6XG1H0-qtja1fBvmY4Y7R8/view?usp=sharing)
 * [Assignment 3]()
-  * [Assignment 3 Notebook]()
+  * [Assignment 3 Notebook](https://colab.research.google.com/drive/1w5kHE2aMFcACXgaVPu1488kvjwbX_B1R?usp=sharing)
   * [Assignment 3 Data](https://raw.githubusercontent.com/jphall663/GWU_ML/main/data/lecture_3/example_preds.csv)
 
 <sub><sup>[`Notebooks`](https://github.com/jphall663/GWU_ML/tree/main/notebook/lecture_3) and [`data`](https://github.com/jphall663/GWU_ML/tree/main/data/lecture_3) also available via GitHub.</sup></sub>
