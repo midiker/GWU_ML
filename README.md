@@ -68,9 +68,9 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
 * [Lecture 2 Software Example](https://drive.google.com/file/d/1eNJzS2J_LPhGxgg3JbxbvlD4DEDByFSO/view?usp=sharing)
 * [Assignment 2](https://docs.google.com/document/d/1lbWXiAMdtCCeb-AQ9Xa3JD2xmcqZ-C2lXWiP1RexDfo/edit?usp=sharing)
   * [Assignment 2 Notebook](https://colab.research.google.com/drive/1MKGYhPuLaAN_4RriqOAmacsm7qpaQF1N?usp=sharing)
-  * [Assignment 2 Data](https://github.com/jphall663/GWU_ML/tree/main/data/lecture_2)
+  * [Assignment 2 Data](https://raw.githubusercontent.com/jphall663/GWU_ML/main/data/lecture_2/loan_clean.csv)
 
-<sub><sup>[`Notebooks`](notebook/lecture_2) and [`data`](https://github.com/jphall663/GWU_ML/tree/main/data/lecture_2) also available via GitHub.</sup></sub>
+<sub><sup>[`Notebooks`](notebook/lecture_2) and [`data`](https://raw.githubusercontent.com/jphall663/GWU_ML/main/data/lecture_2/loan_clean.csv) also available via GitHub.</sup></sub>
 
 ### Lecture 2 Reading
 * [_Elements of Statistical Learning_](https://hastie.su.domains/Papers/ESLII.pdf):
@@ -98,7 +98,7 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
 * [Lecture 3 Software Example](https://drive.google.com/file/d/1t_5IBiyGIC6XG1H0-qtja1fBvmY4Y7R8/view?usp=sharing)
 * [Assignment 3]()
   * [Assignment 3 Notebook]()
-  * [Assignment 3 Data](data/lecture_3)
+  * [Assignment 3 Data](https://raw.githubusercontent.com/jphall663/GWU_ML/main/data/lecture_3/example_preds.csv)
 
 <sub><sup>[`Notebooks`](notebook/lecture_3) and [`data`](data/lecture_3) also available via GitHub.</sup></sub>
 
