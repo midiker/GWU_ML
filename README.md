@@ -112,6 +112,29 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
   
 * [_KDD-Cup 2004: Results and Analysis_](https://www.cs.cornell.edu/people/tj/publications/caruana_etal_04a.pdf)
 
+## Lecture 4: Decision Trees
+
+![A simple decision tree.](img/dt.png)
+
+<sub><sup>**Source:** [_Machine Learning for High-Risk Applications_](https://www.oreilly.com/library/view/machine-learning-for/9781098102425/).</sup></sub>
+
+### Lecture 4 Class Materials
+
+* [Lecture Notes]()
+* [Lecture 4 Software Example]()
+* [Assignment 4](https://docs.google.com/document/d/1skSDS6QzTI1TfWeprj76lannNFQ67a8ofakseW-mQZw/edit?usp=sharing)
+  * [Assignment 4 Notebook](https://colab.research.google.com/drive/1UQcbWYywn-ViH92WB7FeawGj_MenE_jX?usp=sharing)
+  * [Assignment 4 Data](https://raw.githubusercontent.com/jphall663/GWU_ML/main/data/lecture_2/loan_clean.csv)
+
+<sub><sup>[`Notebooks`](https://github.com/jphall663/GWU_ML/tree/main/notebook/lecture_4) and [`data`](https://github.com/jphall663/GWU_ML/tree/main/data/lecture_4) also available via GitHub.</sup></sub>
+
+### Lecture 4 Reading
+* [_Introduction to Data Mining_](https://www-users.cse.umn.edu/~kumar001/dmbook/ch3_classification.pdf):
+  * Sections 3.1 - 3.3
+
+* [_Elements of Statistical Learning_](https://hastie.su.domains/Papers/ESLII.pdf):
+  * Section 9.2
+
 ***
 
 Some materials Copyright Patrick Hall and the H2O.ai team 2017-2020.  
