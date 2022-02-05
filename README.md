@@ -121,7 +121,7 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
 ### Lecture 4 Class Materials
 
 * [Lecture Notes](https://docs.google.com/presentation/d/1UseNXdXEhH6ydg_bhwT4zdkGxlQaVZSCw9q_kHINrTw/edit?usp=sharing)
-* [Lecture 4 Software Example]()
+* [Lecture 4 Software Example](https://colab.research.google.com/drive/1zNP9XWQKb-YtvDWyAB5600fjoZdYT_pX?usp=sharing)
 * [Assignment 4](https://docs.google.com/document/d/1skSDS6QzTI1TfWeprj76lannNFQ67a8ofakseW-mQZw/edit?usp=sharing)
   * [Assignment 4 Notebook](https://colab.research.google.com/drive/1UQcbWYywn-ViH92WB7FeawGj_MenE_jX?usp=sharing)
   * [Assignment 4 Data](https://raw.githubusercontent.com/jphall663/GWU_ML/main/data/lecture_2/loan_clean.csv)
