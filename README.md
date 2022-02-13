@@ -135,6 +135,30 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
 * [_Elements of Statistical Learning_](https://hastie.su.domains/Papers/ESLII.pdf):
   * Section 9.2
 
+## Lecture 5: Artificial Neural Networks
+
+![A simple neural network.](img/ann.png)
+
+<sub><sup>**Source:** [_Testing machine learning explanation techniques_](https://www.oreilly.com/content/testing-machine-learning-interpretability-techniques/).</sup></sub>
+
+### Lecture 5 Class Materials
+
+* [Lecture Notes]()
+* [Lecture 5 Software Example]()
+* [Assignment 5]()
+  * [Assignment 5 Notebook]()
+  * [Assignment 5 Data]()
+
+<sub><sup>[`Notebooks`](https://github.com/jphall663/GWU_ML/tree/main/notebook/lecture_5) and [`data`](https://github.com/jphall663/GWU_ML/tree/main/data/lecture_5) also available via GitHub.</sup></sub>
+
+### Lecture 4 Reading
+* [_Introduction to Data Mining_](https://www-users.cse.umn.edu/~kumar001/dmbook/index.php):
+  * Section 4.7
+
+* [_Elements of Statistical Learning_](https://hastie.su.domains/Papers/ESLII.pdf):
+  * Sections 11.3 - 11.7
+
+
 ***
 
 Some materials Copyright Patrick Hall and the H2O.ai team 2017-2020.  
