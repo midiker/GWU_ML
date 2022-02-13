@@ -137,7 +137,7 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
 
 ## Lecture 5: Artificial Neural Networks
 
-<img src="https://github.com/jphall663/GWU_ML/raw/main/img/ae.png" width="100">
+<img src="https://github.com/jphall663/GWU_ML/raw/main/img/ae.png" width="400">
 
 <sub><sup>**Source:** _Demystifying Deep Learning_, SAS Institute.</sup></sub>
 
