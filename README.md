@@ -158,6 +158,9 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
 * [_Elements of Statistical Learning_](https://hastie.su.domains/Papers/ESLII.pdf):
   * Sections 11.3 - 11.7
 
+### Lecture 5 Links
+* [Neural Network Zoo](https://www.asimovinstitute.org/neural-network-zoo/)
+* [_Deep Learning with H2O_](https://docs.h2o.ai/h2o/latest-stable/h2o-docs/booklets/DeepLearningBooklet.pdf)
 
 ***
 
