@@ -137,17 +137,17 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
 
 ## Lecture 5: Artificial Neural Networks
 
-![A simple neural network.](img/ann.png)
+![A simple autoencoder neural network.](img/ae.png)
 
-<sub><sup>**Source:** [_Testing machine learning explanation techniques_](https://www.oreilly.com/content/testing-machine-learning-interpretability-techniques/).</sup></sub>
+<sub><sup>**Source:** _Demystifying Deep Learning_, SAS Institute.</sup></sub>
 
 ### Lecture 5 Class Materials
 
-* [Lecture Notes]()
-* [Lecture 5 Software Example]()
-* [Assignment 5]()
-  * [Assignment 5 Notebook]()
-  * [Assignment 5 Data]()
+* [Lecture Notes](https://docs.google.com/presentation/d/1GiaOSjNhYeRIQPC0OKPFzyk32NAOCWo39-X8McicUn8/edit?usp=sharing)
+* [Lecture 5 Software Example](https://colab.research.google.com/drive/1ipCtbfqlhgU3hPN2JLmZzZ6MbG7BsHMk?usp=sharing)
+* [Assignment 5](https://docs.google.com/document/d/1seUAfi8XKfhSr2KL3j3-k2c32jid41WXhhTRWlp2BbQ/edit?usp=sharing)
+  * [Assignment 5 Notebook](https://drive.google.com/file/d/1xP_iwnn4holL0dZuZeWMQn1M2Rtlz6-R/view?usp=sharing)
+  * [Assignment 5 Data](https://raw.githubusercontent.com/jphall663/GWU_ML/main/data/lecture_2/loan_clean.csv)
 
 <sub><sup>[`Notebooks`](https://github.com/jphall663/GWU_ML/tree/main/notebook/lecture_5) and [`data`](https://github.com/jphall663/GWU_ML/tree/main/data/lecture_5) also available via GitHub.</sup></sub>
 
