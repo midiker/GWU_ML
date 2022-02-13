@@ -151,7 +151,7 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
 
 <sub><sup>[`Notebooks`](https://github.com/jphall663/GWU_ML/tree/main/notebook/lecture_5) and [`data`](https://github.com/jphall663/GWU_ML/tree/main/data/lecture_5) also available via GitHub.</sup></sub>
 
-### Lecture 4 Reading
+### Lecture 5 Reading
 * [_Introduction to Data Mining_](https://www-users.cse.umn.edu/~kumar001/dmbook/index.php):
   * Section 4.7
 
