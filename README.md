@@ -161,6 +161,8 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
 ### Lecture 5 Links
 * [Neural Network Zoo](https://www.asimovinstitute.org/neural-network-zoo/)
 * [_Deep Learning with H2O_](https://docs.h2o.ai/h2o/latest-stable/h2o-docs/booklets/DeepLearningBooklet.pdf)
+* [_Neural Additive Models: Interpretable Machine Learning with Neural Nets_](https://arxiv.org/pdf/2004.13912.pdf) (How I would recommend training an ANN for structured data.)
+* [THE MNIST DATABASE](http://yann.lecun.com/exdb/mnist/) 
 
 ***
 
