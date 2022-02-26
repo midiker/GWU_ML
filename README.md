@@ -164,6 +164,23 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
 * [_Neural Additive Models: Interpretable Machine Learning with Neural Nets_](https://arxiv.org/pdf/2004.13912.pdf) (How I would recommend training an ANN for structured data.)
 * [THE MNIST DATABASE](http://yann.lecun.com/exdb/mnist/) 
 
+## Lecture 6: Support Vector Machines and k-Nearest-Neighbors
+
+### Lecture 6 Class Materials
+
+* [Lecture Notes](https://docs.google.com/presentation/d/1x-jCH8b-93kJ0-z2RXya-ru0S5B-6DpEJbfAT1CHJhc/edit?usp=sharing)
+* [Lecture 6 Software Example](https://colab.research.google.com/drive/1n3zchLiWRcwpHT4bWtJmAnsmEXJRt2kI?usp=sharing)
+* [Assignment 6](https://docs.google.com/document/d/1JpcJUUu4GGntacXc6JV2_PrAsgEaec2jDvEDRoZKlsg/edit?usp=sharing)
+
+<sub><sup>[`Notebooks`](https://github.com/jphall663/GWU_ML/tree/main/notebook/lecture_6) and [`data`](https://github.com/jphall663/GWU_ML/tree/main/data/lecture_6) also available via GitHub.</sup></sub>
+
+### Lecture 5 Reading
+* [_Introduction to Data Mining_](https://www-users.cse.umn.edu/~kumar001/dmbook/index.php):
+  * Section 4.9
+
+* [_Elements of Statistical Learning_](https://hastie.su.domains/Papers/ESLII.pdf):
+  * Sections 12.1 - 12.3
+
 ***
 
 Some materials Copyright Patrick Hall and the H2O.ai team 2017-2020.  
