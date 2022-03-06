@@ -184,8 +184,6 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
 * [_Elements of Statistical Learning_](https://hastie.su.domains/Papers/ESLII.pdf):
   * Sections 12.1 - 12.3
 
-***
-
 ## Lecture 7: Decision Tree Ensembles
 
 <img src="https://github.com/jphall663/GWU_ML/blob/main/img/rf.png" width="400">
@@ -214,5 +212,7 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
 * [_Random Forests_](https://link.springer.com/content/pdf/10.1023/A:1010933404324.pdf)
 * [_Greedy Function Approximation: A Gradient Boosting Machine_](https://jerryfriedman.su.domains/ftp/trebst.pdf)
 * [_Gradient Boosting Machine With H2o_](https://docs.h2o.ai/h2o/latest-stable/h2o-docs/booklets/GBMBooklet.pdf)
+
+***
 
 Some materials Copyright Patrick Hall and the H2O.ai team 2017-2020.  
