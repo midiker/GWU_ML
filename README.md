@@ -186,7 +186,7 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
 
 ***
 
-## Lecture 7: 
+## Lecture 7: Decision Tree Ensembles
 
 <img src="" width="400">
 
