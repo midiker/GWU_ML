@@ -1,4 +1,4 @@
-## GWU_DNSC 6314: Course Outline
+## GWU_DNSC 6314 & 6315: Course Outline
 
 Materials for an introduction to machine learning.
 
@@ -8,6 +8,7 @@ Materials for an introduction to machine learning.
 * Lecture 4: Decision Trees
 * Lecture 5: Artificial Neural Networks
 * Lecture 6: Other Estimators: Support Vector Machines (SVM) k-Nearest-Neighbors (*k*NN), etc.
+* Lecture 7: Decision Tree Ensembles
 
 Corrections or suggestions? Please file a [GitHub issue](https://github.com/jphall663/GWU_ML/issues/new).
 
@@ -17,7 +18,9 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
 
 * [Basic Data Manipulation](resource/basic_data_prep.md)
 * [Primer on Technical Malpractice](https://docs.google.com/presentation/d/1cZeaoIp4cQsVY_gj2a5Pg7ygexepQZRS-ZEn6n2QqEU/edit?usp=sharing)
-* [Syllabus](https://docs.google.com/document/d/1YORCBhsOqNT5pY7ltzigtaf4EuawgKyu0_Be0QiiVbg/edit?usp=sharing)
+* Syllabi
+  * [DNSC 6314](https://docs.google.com/document/d/1YORCBhsOqNT5pY7ltzigtaf4EuawgKyu0_Be0QiiVbg/edit?usp=sharing)
+  * [DNSC 6315](https://docs.google.com/document/d/1JccZWRz6dtXcvOMmRzJR-MwjLJNly1q24pWS90ti9jk/edit?usp=sharing)
 * [Whiteboard Notation](https://docs.google.com/presentation/d/1Axf9dizaE3XvGRelBHfsnAlMUPFuMExQ2WNVwQBKMrw/edit?usp=sharing)
 
 ## Lecture 1: Preliminaries, Feature Engineering and Feature Selection
@@ -174,7 +177,7 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
 
 <sub><sup>[`Notebooks`](https://github.com/jphall663/GWU_ML/tree/main/notebook/lecture_6) and [`data`](https://github.com/jphall663/GWU_ML/tree/main/data/lecture_6) also available via GitHub.</sup></sub>
 
-### Lecture 5 Reading
+### Lecture 6 Reading
 * [_Introduction to Data Mining_](https://www-users.cse.umn.edu/~kumar001/dmbook/index.php):
   * Section 4.9
 
@@ -182,5 +185,34 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
   * Sections 12.1 - 12.3
 
 ***
+
+## Lecture 7: 
+
+<img src="" width="400">
+
+<sub><sup>**Source:** [From Lecture 7](https://docs.google.com/presentation/d/1GoQH-aVb8gG-VYFLkGIcrhSo-OM7ADM_qHyUHXZ8a6M/edit?usp=sharing).</sup></sub>
+
+### Lecture 7 Class Materials
+
+* [Lecture Notes](https://docs.google.com/presentation/d/1GoQH-aVb8gG-VYFLkGIcrhSo-OM7ADM_qHyUHXZ8a6M/edit?usp=sharing)
+* [Lecture 7 Software Example](https://colab.research.google.com/drive/1S2agRyCGtv-HSJdnFtMQ3FKfvOXQ2Zua?usp=sharing)
+* [Assignment 7]()
+  * [Assignment 7 Notebook]()
+  * [Assignment 7 Data](https://raw.githubusercontent.com/jphall663/GWU_ML/main/data/lecture_2/loan_clean.csv)
+
+<sub><sup>[`Notebooks`](https://github.com/jphall663/GWU_ML/tree/main/notebook/lecture_7) and [`data`](https://github.com/jphall663/GWU_ML/tree/main/data/lecture_7) also available via GitHub.</sup></sub>
+
+### Lecture 7 Reading
+* [_Introduction to Data Mining_](https://www-users.cse.umn.edu/~kumar001/dmbook/index.php):
+  * Section 4.10
+
+* [_Elements of Statistical Learning_](https://hastie.su.domains/Papers/ESLII.pdf):
+  * Chapter 10
+  * Chapter 15
+
+### Lecture 7 Links
+* [_Random Forests_](https://link.springer.com/content/pdf/10.1023/A:1010933404324.pdf)
+* [_Greedy Function Approximation: A Gradient Boosting Machine_](https://jerryfriedman.su.domains/ftp/trebst.pdf)
+* [_Gradient Boosting Machine With H2o_](https://docs.h2o.ai/h2o/latest-stable/h2o-docs/booklets/GBMBooklet.pdf)
 
 Some materials Copyright Patrick Hall and the H2O.ai team 2017-2020.  
