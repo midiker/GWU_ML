@@ -188,7 +188,7 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
 
 ## Lecture 7: Decision Tree Ensembles
 
-<img src="" width="400">
+<img src="https://github.com/jphall663/GWU_ML/blob/main/img/rf.png" width="400">
 
 <sub><sup>**Source:** [From Lecture 7](https://docs.google.com/presentation/d/1GoQH-aVb8gG-VYFLkGIcrhSo-OM7ADM_qHyUHXZ8a6M/edit?usp=sharing).</sup></sub>
 
