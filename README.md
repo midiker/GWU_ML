@@ -195,7 +195,7 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
 * [Lecture Notes](https://docs.google.com/presentation/d/1GoQH-aVb8gG-VYFLkGIcrhSo-OM7ADM_qHyUHXZ8a6M/edit?usp=sharing)
 * [Lecture 7 Software Example](https://colab.research.google.com/drive/1S2agRyCGtv-HSJdnFtMQ3FKfvOXQ2Zua?usp=sharing)
 * [Assignment 7](https://docs.google.com/document/d/1AybsLdUiNGxGNZ3FDLVxOqHbVFCoC9i9Vs6kdjkwacU/edit?usp=sharing)
-  * [Assignment 7 Notebook]()
+  * [Assignment 7 Notebook](https://drive.google.com/file/d/1jXRPQGe38dKDdbpU5imTrojpCZxEXBXH/view?usp=sharing)
   * [Assignment 7 Data](https://raw.githubusercontent.com/jphall663/GWU_ML/main/data/lecture_2/loan_clean.csv)
 
 <sub><sup>[`Notebooks`](https://github.com/jphall663/GWU_ML/tree/main/notebook/lecture_7) and [`data`](https://github.com/jphall663/GWU_ML/tree/main/data/lecture_7) also available via GitHub.</sup></sub>
