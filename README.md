@@ -9,6 +9,7 @@ Materials for an introduction to machine learning.
 * Lecture 5: Artificial Neural Networks
 * Lecture 6: Other Estimators: Support Vector Machines (SVM) k-Nearest-Neighbors (*k*NN), etc.
 * Lecture 7: Decision Tree Ensembles
+* Lecture 8: Convolutional Neural Networks
 
 Corrections or suggestions? Please file a [GitHub issue](https://github.com/jphall663/GWU_ML/issues/new).
 
@@ -212,6 +213,30 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
 * [_Random Forests_](https://link.springer.com/content/pdf/10.1023/A:1010933404324.pdf)
 * [_Greedy Function Approximation: A Gradient Boosting Machine_](https://jerryfriedman.su.domains/ftp/trebst.pdf)
 * [_Gradient Boosting Machine With H2o_](https://docs.h2o.ai/h2o/latest-stable/h2o-docs/booklets/GBMBooklet.pdf)
+
+## Lecture 8: Convolutional Neural Networks
+
+![Diagram of LeNet.](img/lenet.png)
+
+<sub><sup>**Source:** From [*Gradient-based Learning Applied to Document Recognition*](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf).</sup></sub>
+
+### Lecture 8 Class Materials
+
+* [Lecture Notes](https://docs.google.com/presentation/d/11ZpVljuGEMJsl3Jo_ENM9H8zlBpJehIx7y5w_Dx-E1Y/edit?usp=sharing)
+* [Assignment 8]()
+  * [Assignment 8 Notebook]()
+
+<sub><sup>[`Notebooks`](https://github.com/jphall663/GWU_ML/tree/main/notebook/lecture_8) and [`data`](https://github.com/jphall663/GWU_ML/tree/main/data/lecture_8) also available via GitHub.</sup></sub>
+
+### Lecture 8 Reading
+* [_Introduction to Data Mining_](https://www-users.cse.umn.edu/~kumar001/dmbook/index.php):
+  * Section 4.8
+
+* [_Deep Learning_](https://www.deeplearningbook.org/):
+  * [Chapter 9](https://www.deeplearningbook.org/contents/convnets.html)
+
+### Lecture 8 Links
+* [Keras](https://keras.io/)
 
 ***
 
