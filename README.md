@@ -223,10 +223,10 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
 ### Lecture 8 Class Materials
 
 * [Lecture Notes](https://docs.google.com/presentation/d/11ZpVljuGEMJsl3Jo_ENM9H8zlBpJehIx7y5w_Dx-E1Y/edit?usp=sharing)
-* [Assignment 8]()
-  * [Assignment 8 Notebook]()
+* [Assignment 8](https://docs.google.com/document/d/1ioNjx6NOzNZmWRcJ1AD5SmzBKfwy8Jpg7zFVEvrcgEU/edit?usp=sharing)
+  * [Assignment 8 Notebook](https://drive.google.com/file/d/1I-PVLAA3oo9M1Luw0fdMKx9ZMzljNMIe/view?usp=sharing)
 
-<sub><sup>[`Notebooks`](https://github.com/jphall663/GWU_ML/tree/main/notebook/lecture_8) and [`data`](https://github.com/jphall663/GWU_ML/tree/main/data/lecture_8) also available via GitHub.</sup></sub>
+<sub><sup>[`Notebooks`](https://github.com/jphall663/GWU_ML/tree/main/notebook/lecture_8) are also available via GitHub.</sup></sub>
 
 ### Lecture 8 Reading
 * [_Introduction to Data Mining_](https://www-users.cse.umn.edu/~kumar001/dmbook/index.php):
