@@ -220,7 +220,7 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
 
 ## Lecture 8: Convolutional Neural Networks
 
-![Diagram of LeNet.](img/lenet.png)
+![Diagram of LeNet.](img/conv.png)
 
 <sub><sup>**Source:** [From Lecture 8](https://docs.google.com/presentation/d/11ZpVljuGEMJsl3Jo_ENM9H8zlBpJehIx7y5w_Dx-E1Y/edit?usp=sharing), with thanks to Wen Phan.</sup></sub>
 
