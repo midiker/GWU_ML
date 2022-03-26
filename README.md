@@ -262,7 +262,3 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
 
 * [_Elements of Statistical Learning_](https://hastie.su.domains/Papers/ESLII.pdf):
   * Section 14.3
-
-***
-
-Some materials Copyright Patrick Hall and the H2O.ai team 2017-2020.  
