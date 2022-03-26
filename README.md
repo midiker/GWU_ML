@@ -170,6 +170,10 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
 
 ## Lecture 6: Support Vector Machines and k-Nearest-Neighbors
 
+![Diagram of a decision boundary after the application of a polynomial kernel.](img/kernel_trick.png)
+
+<sub><sup>**Source:** [From Assignment 6](https://docs.google.com/document/d/1JpcJUUu4GGntacXc6JV2_PrAsgEaec2jDvEDRoZKlsg/edit?usp=sharing).</sup></sub>
+
 ### Lecture 6 Class Materials
 
 * [Lecture Notes](https://docs.google.com/presentation/d/1x-jCH8b-93kJ0-z2RXya-ru0S5B-6DpEJbfAT1CHJhc/edit?usp=sharing)
@@ -218,7 +222,7 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
 
 ![Diagram of LeNet.](img/lenet.png)
 
-<sub><sup>**Source:** From [*Gradient-based Learning Applied to Document Recognition*](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf).</sup></sub>
+<sub><sup>**Source:** [From Lecture 8](https://docs.google.com/presentation/d/11ZpVljuGEMJsl3Jo_ENM9H8zlBpJehIx7y5w_Dx-E1Y/edit?usp=sharing), with thanks to Wen Phan.</sup></sub>
 
 ### Lecture 8 Class Materials
 
@@ -237,6 +241,27 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
 
 ### Lecture 8 Links
 * [Keras](https://keras.io/)
+
+## Lecture 9: Clustering
+
+![Clusters visualized by principals components analysis.](img/clusters.png)
+
+<sub><sup>**Source:** [From Assignment 9 Notebook]().</sup></sub>
+
+### Lecture 9 Class Materials
+
+* [Lecture Notes](https://docs.google.com/presentation/d/14pHCJmiXrPdlRantWWwO32LLvVmV_gDrwRvNLB60j0Q/edit?usp=sharing)
+* [Assignment 9]()
+  * [Assignment 9 Notebook]()
+
+<sub><sup>[`Notebooks`](https://github.com/jphall663/GWU_ML/tree/main/notebook/lecture_9) and [`data`](https://github.com/jphall663/GWU_ML/tree/main/data/lecture_2) are also available via GitHub.</sup></sub>
+
+### Lecture 9 Reading
+* _Introduction to Data Mining_:
+  * [Chapter 7](https://www-users.cs.umn.edu/~kumar001/dmbook/ch7_clustering.pdf), through Section 7.3
+
+* [_Elements of Statistical Learning_](https://hastie.su.domains/Papers/ESLII.pdf):
+  * Section 14.3
 
 ***
 
