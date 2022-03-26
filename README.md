@@ -10,6 +10,7 @@ Materials for an introduction to machine learning.
 * Lecture 6: Other Estimators: Support Vector Machines (SVM) k-Nearest-Neighbors (*k*NN), etc.
 * Lecture 7: Decision Tree Ensembles
 * Lecture 8: Convolutional Neural Networks
+* Lecture 9: Clustering
 
 Corrections or suggestions? Please file a [GitHub issue](https://github.com/jphall663/GWU_ML/issues/new).
 
