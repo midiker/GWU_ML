@@ -247,12 +247,12 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
 
 ![Clusters visualized by principals components analysis.](img/clusters.png)
 
-<sub><sup>**Source:** [From Assignment 9 Notebook]().</sup></sub>
+<sub><sup>**Source:** [From Assignment 9 Notebook](https://docs.google.com/document/d/1l3iWtTxdL-EGfNRxUjRBdl7Di3erFcsWyVdm9-RuAnk/edit?usp=sharing).</sup></sub>
 
 ### Lecture 9 Class Materials
 
 * [Lecture Notes](https://docs.google.com/presentation/d/14pHCJmiXrPdlRantWWwO32LLvVmV_gDrwRvNLB60j0Q/edit?usp=sharing)
-* [Assignment 9]()
+* [Assignment 9](https://docs.google.com/document/d/1l3iWtTxdL-EGfNRxUjRBdl7Di3erFcsWyVdm9-RuAnk/edit?usp=sharing)
   * [Assignment 9 Notebook](https://drive.google.com/file/d/1szaSrs-lBG9P00sy1FiI4PQGGXxdNR4Z/view?usp=sharing)
 
 <sub><sup>[`Notebooks`](https://github.com/jphall663/GWU_ML/tree/main/notebook/lecture_9) and [`data`](https://github.com/jphall663/GWU_ML/tree/main/data/lecture_2) are also available via GitHub.</sup></sub>
