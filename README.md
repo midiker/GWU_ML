@@ -252,7 +252,7 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
 
 * [Lecture Notes](https://docs.google.com/presentation/d/14pHCJmiXrPdlRantWWwO32LLvVmV_gDrwRvNLB60j0Q/edit?usp=sharing)
 * [Assignment 9]()
-  * [Assignment 9 Notebook]()
+  * [Assignment 9 Notebook](https://drive.google.com/file/d/1szaSrs-lBG9P00sy1FiI4PQGGXxdNR4Z/view?usp=sharing)
 
 <sub><sup>[`Notebooks`](https://github.com/jphall663/GWU_ML/tree/main/notebook/lecture_9) and [`data`](https://github.com/jphall663/GWU_ML/tree/main/data/lecture_2) are also available via GitHub.</sup></sub>
 
