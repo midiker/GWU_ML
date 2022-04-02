@@ -272,7 +272,7 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
 
 ### Lecture 10 Class Materials
 
-* [Lecture Notes]()
+* [Lecture Notes](https://docs.google.com/presentation/d/1gmdp6Sxts6g-KGKGUHb8Z_nkVHmDZNIcoiz9HYia1j8/edit?usp=sharing)
 * [Lecture 10 Software Example](https://colab.research.google.com/drive/1l6AP8v1FPUdYbYqNI1f6z2l3Dx6l2cyK?usp=sharing)
 * [Assignment 10]()
   * [Assignment 10 Notebook]()
