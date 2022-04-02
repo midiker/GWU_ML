@@ -11,6 +11,7 @@ Materials for an introduction to machine learning.
 * Lecture 7: Decision Tree Ensembles
 * Lecture 8: Convolutional Neural Networks
 * Lecture 9: Clustering
+* Lecture 10: Dimension Reduction
 
 Corrections or suggestions? Please file a [GitHub issue](https://github.com/jphall663/GWU_ML/issues/new).
 
@@ -263,3 +264,22 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
 
 * [_Elements of Statistical Learning_](https://hastie.su.domains/Papers/ESLII.pdf):
   * Section 14.3
+
+## Lecture 10: Dimension Reduction
+![Iris species projected in three dimensions.](img/iris.png)
+
+<sub><sup>**Source:** [From Lecture 10 Code Example](https://colab.research.google.com/drive/1l6AP8v1FPUdYbYqNI1f6z2l3Dx6l2cyK?usp=sharing).</sup></sub>
+
+### Lecture 10 Class Materials
+
+* [Lecture Notes]()
+* [Lecture 10 Software Example](https://colab.research.google.com/drive/1l6AP8v1FPUdYbYqNI1f6z2l3Dx6l2cyK?usp=sharing)
+* [Assignment 10]()
+  * [Assignment 10 Notebook]()
+
+<sub><sup>[`Notebooks`]() and [`data`]() are also available via GitHub.</sup></sub>
+
+### Lecture 10 Reading
+* [_Elements of Statistical Learning_](https://hastie.su.domains/Papers/ESLII.pdf):
+  * Section 14.3
+
