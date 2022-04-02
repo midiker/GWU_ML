@@ -281,5 +281,7 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
 
 ### Lecture 10 Reading
 * [_Elements of Statistical Learning_](https://hastie.su.domains/Papers/ESLII.pdf):
-  * Section 14.3
+  * Section 14.5 - 14.6
+* [_Generalized Low Rank Models_](https://people.orie.cornell.edu/mru8/doc/udell14_glrm_short.pdf)
+* [_Near Optimal Signal Recovery From Random Projections: niversal Encoding Strategies?_](https://arxiv.org/pdf/math/0410542.pdf)
 
