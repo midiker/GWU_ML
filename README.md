@@ -275,9 +275,9 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
 * [Lecture Notes](https://docs.google.com/presentation/d/1gmdp6Sxts6g-KGKGUHb8Z_nkVHmDZNIcoiz9HYia1j8/edit?usp=sharing)
 * [Lecture 10 Software Example](https://colab.research.google.com/drive/1l6AP8v1FPUdYbYqNI1f6z2l3Dx6l2cyK?usp=sharing)
 * [Assignment 10]()
-  * [Assignment 10 Notebook]()
+  * [Assignment 10 Notebook](https://colab.research.google.com/drive/1J0nCDJGoZjNwsTvArlTGdtjN-XiNw4Dc?usp=sharing)
 
-<sub><sup>[`Notebooks`]() and [`data`]() are also available via GitHub.</sup></sub>
+<sub><sup>[`Notebooks`](https://github.com/jphall663/GWU_ML/tree/main/notebook/lecture_10) and [`data`](https://github.com/jphall663/GWU_ML/tree/main/data/lecture_10) are also available via GitHub.</sup></sub>
 
 ### Lecture 10 Reading
 * [_Elements of Statistical Learning_](https://hastie.su.domains/Papers/ESLII.pdf):
