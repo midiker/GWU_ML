@@ -276,6 +276,7 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
 * [Lecture 10 Software Example](https://colab.research.google.com/drive/1l6AP8v1FPUdYbYqNI1f6z2l3Dx6l2cyK?usp=sharing)
 * [Assignment 10](https://docs.google.com/document/d/1x11BK2GgVrAK2kxtW4ZwhQeGvf-QvMyZ6eAoKWr4TsI/edit?usp=sharing)
   * [Assignment 10 Notebook](https://colab.research.google.com/drive/1J0nCDJGoZjNwsTvArlTGdtjN-XiNw4Dc?usp=sharing)
+  * [Assignment 10 Data](https://raw.githubusercontent.com/jphall663/GWU_ML/main/data/lecture_10/train.csv)
 
 <sub><sup>[`Notebooks`](https://github.com/jphall663/GWU_ML/tree/main/notebook/lecture_10) and [`data`](https://github.com/jphall663/GWU_ML/tree/main/data/lecture_10) are also available via GitHub.</sup></sub>
 
