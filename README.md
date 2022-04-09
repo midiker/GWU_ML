@@ -292,7 +292,7 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
 ### Lecture 11 Class Materials
 
 * [Lecture Notes](https://docs.google.com/presentation/d/1_wjHDs9vaTcuTPRGlLXoGp1zAJg3Mi-IOB5-oMEcc7o/edit?usp=sharing)
-* [Assignment 11]()
+* [Assignment 11](https://docs.google.com/document/d/1RovJlaHXE55bITzEUYYTAG1Use9BIgeKARyYuoHW6yU/edit?usp=sharing)
   * [Assignment 11 Notebook](https://colab.research.google.com/drive/1_HQhhJVoNO8z8OUy8dT01o6WvNbJC_Ci?usp=sharing)
   * [Assignment 11 Data](https://github.com/jphall663/GWU_ML/tree/main/data/lecture_11)
 
