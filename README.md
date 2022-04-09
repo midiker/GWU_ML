@@ -12,6 +12,7 @@ Materials for an introduction to machine learning.
 * Lecture 8: Convolutional Neural Networks
 * Lecture 9: Clustering
 * Lecture 10: Dimension Reduction
+* Lecture 11: Association Rules and Recommendation
 
 Corrections or suggestions? Please file a [GitHub issue](https://github.com/jphall663/GWU_ML/issues/new).
 
@@ -285,4 +286,25 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
   * Section 14.5 - 14.6
 * [_Generalized Low Rank Models_](https://people.orie.cornell.edu/mru8/doc/udell14_glrm_short.pdf)
 * [_Near Optimal Signal Recovery From Random Projections: Universal Encoding Strategies?_](https://arxiv.org/pdf/math/0410542.pdf)
+
+## Lecture 11: Association Rules and Recommendation
+
+### Lecture 11 Class Materials
+
+* [Lecture Notes](https://docs.google.com/presentation/d/1_wjHDs9vaTcuTPRGlLXoGp1zAJg3Mi-IOB5-oMEcc7o/edit?usp=sharing)
+* [Assignment 11]()
+  * [Assignment 11 Notebook]()
+  * [Assignment 11 Data]()
+
+<sub><sup>[`Notebooks`](https://github.com/jphall663/GWU_ML/tree/main/notebook/lecture_11) and [`data`](https://github.com/jphall663/GWU_ML/tree/main/data/lecture_11) are also available via GitHub.</sup></sub>
+
+### Lecture 11 Reading
+
+* _Introduction to Data Mining_, [Chapter 5](https://www-users.cse.umn.edu/~kumar001/dmbook/ch5_association_analysis.pdf)
+  * Sections 5.1 – 5.3, and 5.7
+
+* [_Elements of Statistical Learning_](https://hastie.su.domains/Papers/ESLII.pdf):
+  * Section 14.5 - 14.6
+
+* [_Introduction to Recommender Systems Handbook_](http://www.inf.unibz.it/~ricci/papers/intro-rec-sys-handbook.pdf)
 
