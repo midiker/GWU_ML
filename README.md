@@ -13,6 +13,7 @@ Materials for an introduction to machine learning.
 * Lecture 9: Clustering
 * Lecture 10: Dimension Reduction
 * Lecture 11: Association Rules and Recommendation
+* Lecture 12: Deployment
 
 Corrections or suggestions? Please file a [GitHub issue](https://github.com/jphall663/GWU_ML/issues/new).
 
@@ -307,4 +308,26 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
   * Section 14.5 - 14.6
 
 * [_Introduction to Recommender Systems Handbook_](http://www.inf.unibz.it/~ricci/papers/intro-rec-sys-handbook.pdf)
+
+## Lecture 12: Deployment
+
+![Quantifyng the Business Value of a Regression Model.](img/resid.png)
+
+<sub><sup>**Source:** [From Lecture 12](https://docs.google.com/presentation/d/1Tr_sg1XlV8FBAC1EyyPcnF3EWm-UXxhhVMaQSr_cptE/edit?usp=sharing).</sup></sub>
+
+### Lecture 12 Class Materials
+
+* [Lecture Notes](https://docs.google.com/presentation/d/1Tr_sg1XlV8FBAC1EyyPcnF3EWm-UXxhhVMaQSr_cptE/edit?usp=sharing)
+* [Assignment 12]()
+  * [Assignment 12 Notebook]()
+  * [Assignment 12 Data]()
+
+<sub><sup>[`Notebooks`]() and [`data`](https://github.com/jphall663/GWU_ML/tree/main/data/lecture_2) are also available via GitHub.</sup></sub>
+
+### Lecture 12 Reading
+
+* [_How to Deploy Machine Learning Models_](https://christophergs.com/machine%20learning/2019/03/17/how-to-deploy-machine-learning-models/)
+* [_Machine Learning: The High-Interest Credit Card of Technical Debt_](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/43146.pdf)
+* [_SUPERVISORY GUIDANCE ON MODEL RISK MANAGEMENT_](https://www.federalreserve.gov/supervisionreg/srletters/sr1107a1.pdf)
+
 
