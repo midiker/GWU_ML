@@ -318,7 +318,7 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
 ### Lecture 12 Class Materials
 
 * [Lecture Notes](https://docs.google.com/presentation/d/1Tr_sg1XlV8FBAC1EyyPcnF3EWm-UXxhhVMaQSr_cptE/edit?usp=sharing)
-* [Assignment 12]()
+* [Assignment 12](https://docs.google.com/document/d/16uaO4CSOCqVTX9PqzUNTUwRgQpb2Lzikpd7tixVso6U/edit?usp=sharing)
   * [Assignment 12 Notebook](https://colab.research.google.com/drive/1Y7FX4TPBACzk_tpoBeVdUJG0IzuXvdqq?usp=sharing)
   * [Assignment 12 Data](https://raw.githubusercontent.com/jphall663/GWU_ML/main/data/lecture_2/loan_clean.csv)
 
