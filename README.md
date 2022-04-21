@@ -322,7 +322,7 @@ Corrections or suggestions? Please file a [GitHub issue](https://github.com/jpha
   * [Assignment 12 Notebook](https://colab.research.google.com/drive/1Y7FX4TPBACzk_tpoBeVdUJG0IzuXvdqq?usp=sharing)
   * [Assignment 12 Data](https://raw.githubusercontent.com/jphall663/GWU_ML/main/data/lecture_2/loan_clean.csv)
 
-<sub><sup>[`Notebooks`]() and [`data`](https://github.com/jphall663/GWU_ML/tree/main/data/lecture_2) are also available via GitHub.</sup></sub>
+<sub><sup>[`Notebooks`](https://github.com/jphall663/GWU_ML/tree/main/notebook/lecture_12) and [`data`](https://github.com/jphall663/GWU_ML/tree/main/data/lecture_2) are also available via GitHub.</sup></sub>
 
 ### Lecture 12 Reading
 
